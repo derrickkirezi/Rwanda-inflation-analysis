@@ -32,4 +32,4 @@ df_long = df_long.dropna()
 
 df_long = df_long.sort_values(['Category', 'Date'])
 
-df_long.to_csv("data/rwanda_cpi_clean.csv", index=False)
+df_long.to_csv("rwanda_cpi_clean.csv", index=False)
