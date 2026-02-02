@@ -50,7 +50,7 @@ This project analyzes Rwanda’s Consumer Price Index (CPI) data to understand i
 ### Dashboard
 
 **The following visual is a screenshot but the Tableau dashboard can be viewed here:**
-**[Tableau Public – Rwanda CPI Dashboard](https://public.tableau.com/app/profile/derrick.kirezi/viz/rwanda_cpi/Dashboard1?publish=yes)**
+**[Rwanda CPI Dashboard](https://public.tableau.com/app/profile/derrick.kirezi/viz/rwanda_cpi/Dashboard1?publish=yes)**
 
-[Dashboard](Tableau/dashboard.png)
+![Dashboard](Tableau/dashboard.png)
 
