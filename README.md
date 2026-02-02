@@ -2,14 +2,14 @@
 
  ## Project overview
 
-This project analyzes Rwanda’s Consumer Price Index (CPI) data to understand inflation trends, price behavior, and price volatility over time. The analysis focuses on identifying which categories drive inflation and how price changes may affect household cost of living.
+This project analyzes Rwanda’s Consumer Price Index (CPI) data to understand inflation trends, price behavior, and price volatility over time. The analysis focuses on identifying which product categories drive inflation and how price changes may affect household cost of living.
 
 ### Objectives
 
 - To analyze overall CPI trends over time
-- Compare CPI behavior across different expenditure categories
+- Compare CPI behavior across different categories
 - Identify categories with the highest price volatility
-- Translate quantitative results into meaningful economic insights
+- Translate results into economic insights
 
 ### Tools
 
@@ -21,24 +21,24 @@ This project analyzes Rwanda’s Consumer Price Index (CPI) data to understand i
 
 `
 ├── data/
-│   ├── raw/                # Original CPI data
-│   ├── cleaned/            # Cleaned CSV files used for analysis
+    ├── raw/                # original CPI data
+    ├── cleaned/            # cleaned CSV files used for analysis
 ├── notebook/
-│   └── data_cleaning/      # Python scripts for data cleaning
+    └── data_cleaning/      # Python scripts for data cleaning
 ├── sql/
-│   └── analysis_queries.sql
+    └── analysis_queries.sql
 ├── Tableau/
-│   └── dashboard_link
-│   └── dashboard.png
+    └── dashboard_link
+    └── dashboard.png
 └── README.md
 `
 
 ### Analyses
 
-* **Overall CPI trend:** Long-term inflation pattern in Rwanda
-* **CPI by category:** Comparison of price movements across sectors
-* **Average CPI by category:** Identifying categories with consistently higher prices
-* **Price volatility:** Measuring instability using standard deviation
+- **Overall CPI trend:** Long-term inflation pattern in Rwanda
+- **CPI by category:** Comparison of price movements across sectors
+- **Average CPI by category:** Identifying categories with consistently higher prices
+- **Price volatility:** Measuring instability using standard deviation
 
 ### Key insights
 
