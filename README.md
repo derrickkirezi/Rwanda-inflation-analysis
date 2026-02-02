@@ -1,4 +1,4 @@
-# Rwanda Consumer Price Index (CPI) Analysis
+# Rwanda Consumer Price Index (CPI) analysis
 
  ## Project overview
 
