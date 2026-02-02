@@ -1,6 +1,6 @@
 # Rwanda Consumer Price Index (CPI) Analysis
 
- ## Project Overview
+ ## Project overview
 
 This project analyzes Rwanda’s Consumer Price Index (CPI) data to understand inflation trends, price behavior, and price volatility over time. The analysis focuses on identifying which categories drive inflation and how price changes may affect household cost of living.
 
@@ -11,13 +11,13 @@ This project analyzes Rwanda’s Consumer Price Index (CPI) data to understand i
 - Identify categories with the highest price volatility
 - Translate quantitative results into meaningful economic insights
 
-### Tools & Technologies
+### Tools
 
 - `Python (Pandas)`: Data cleaning, reshaping, and preprocessing
 - `SQL (MySQL)`: Data storage, aggregation, and statistical analysis
 - `Tableau Public`: Interactive data visualization and dashboard creation
 
-### Project Structure
+### Project structure
 
 `
 ├── data/
