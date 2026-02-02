@@ -17,22 +17,6 @@ This project analyzes Rwanda’s Consumer Price Index (CPI) data to understand i
 - `SQL (MySQL)`: Data storage, aggregation, and statistical analysis
 - `Tableau Public`: Interactive data visualization and dashboard creation
 
-### Project structure
-
-`
--- data/
-     raw/                # original CPI data
-     cleaned/            # cleaned CSV files used for analysis
--- notebook/
-     data_cleaning/      # Python scripts for data cleaning
--- sql/
-     analysis_queries.sql
--- Tableau/
-     dashboard_link
-     dashboard.png
--- README.md
-`
-
 ### Analyses
 
 - **Overall CPI trend:** Long-term inflation pattern in Rwanda
