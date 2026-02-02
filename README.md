@@ -35,10 +35,10 @@ This project analyzes Rwanda’s Consumer Price Index (CPI) data to understand i
 
 ### Analyses
 
-* **Overall CPI Trend:** Long-term inflation pattern in Rwanda
-* **CPI by Category:** Comparison of price movements across sectors
-* **Average CPI by Category:** Identifying categories with consistently higher prices
-* **Price Volatility:** Measuring instability using standard deviation
+* **Overall CPI trend:** Long-term inflation pattern in Rwanda
+* **CPI by category:** Comparison of price movements across sectors
+* **Average CPI by category:** Identifying categories with consistently higher prices
+* **Price volatility:** Measuring instability using standard deviation
 
 ### Key insights
 
